@@ -1,0 +1,190 @@
+﻿l_english:
+#################
+### Name List ###
+#################
+name_list_EKIR:0 "Ekir"
+
+
+
+##################
+### Ship Names ###
+##################
+EKIR_SHIP_A:0 "Absolute Density"
+EKIR_SHIP_B:0 "Brother of Tenacity"
+EKIR_SHIP_C:0 "Chapter from Beyond"
+EKIR_SHIP_D:0 "Daily Ordained Strikes"
+EKIR_SHIP_E:0 "Elected Envoy"
+EKIR_SHIP_F:0 "Fasten for Impact"
+EKIR_SHIP_G:0 "Grand Overture"
+EKIR_SHIP_H:0 "High Impact Criticism"
+EKIR_SHIP_I:0 "Investement in Damage"
+EKIR_SHIP_J:0 "Jacket of Metal"
+EKIR_SHIP_K:0 "Kinetic Diplomacy"
+EKIR_SHIP_L:0 "Library of Weapons"
+EKIR_SHIP_M:0 "Medium of Storage"
+EKIR_SHIP_N:0 "Null Variable"
+EKIR_SHIP_O:0 "Order of Peace"
+EKIR_SHIP_P:0 "Perfected Horizon"
+EKIR_SHIP_Q:0 "Quit the Astral"
+EKIR_SHIP_R:0 "Revoker of Existence"
+EKIR_SHIP_S:0 "Software Patch"
+EKIR_SHIP_T:0 "Thesis on Recycling"
+EKIR_SHIP_U:0 "Urban Restructuring"
+EKIR_SHIP_V:0 "Vestige of the Sky"
+EKIR_SHIP_W:0 "Wander for Peace"
+EKIR_SHIP_X:0 "Xenos will Know"
+EKIR_SHIP_Y:0 "Yard of Prosperity"
+EKIR_SHIP_Z:0 "Zenith of Ares"
+### Titan
+EKIR_TITAN_A:0 "Theo's Master Strategy"
+EKIR_TITAN_B:0 "Luke's Unyielding Bulwark"
+EKIR_TITAN_C:0 "Yuka's Rising Dawn"
+EKIR_TITAN_D:0 "Femke's Absolute Resolve"
+EKIR_TITAN_E:0 "Thy Destroyer of Hopes"
+### Colossi
+EKIR_COLOSSI_A:0 "Depth Imperator"
+EKIR_COLOSSI_B:0 "Ardent Sky"
+EKIR_COLOSSI_C:0 "Eye of Salvation"
+EKIR_COLOSSI_D:0 "Sky Daddy"
+### Juggernaut
+EKIR_JUGGERNAUT_A:0 "Typhoon Imperator"
+EKIR_JUGGERNAUT_B:0 "Storm Imperator"
+EKIR_JUGGERNAUT_C:0 "Ekirian Wrath"
+### Constructor
+EKIR_CONSTRUCTOR_A:0 "Assembler Crew"
+EKIR_CONSTRUCTOR_B:0 "Construct Genesis"
+EKIR_CONSTRUCTOR_C:0 "Initialise Claim"
+### Colonizer
+EKIR_COLONIZER_A:0 "Expansion Crew"
+EKIR_COLONIZER_B:0 "Neu Reclaimer"
+EKIR_COLONIZER_C:0 "Dawn Pioneer"
+### Science
+EKIR_SCIENCE_A:0 "Research Crew"
+EKIR_SCIENCE_B:0 "Brave the Unknown"
+EKIR_SCIENCE_C:0 "Frantic Scanner"
+### Transport
+EKIR_TRANSPORT:0 "Thundercrash"
+### Defence Platform
+EKIR_DEFENCEPLATFORM:0 "Firewall Simplex"
+EKIR_DEFENCEPLATFORM:0 "Firewall Duplex"
+EKIR_DEFENCEPLATFORM:0 "Firewall Triplex"
+EKIR_IONCANNON:0 "Surge"
+
+
+
+###################
+### Fleet Names ###
+###################
+EKIR_FLEET:0 "$ORD$ Ekirian Stellar Fleet"
+
+
+
+##################
+### Army Names ###
+##################
+EKIR_SENTINEL:0 "Ekirian Sentinel Legion"
+EKIR_HUNTERKILLER:0 "Ekirian Hunter-Killer Commando"
+EKIR_BATTLEFRAME:0 "Ekirian Battle-Frame Legion"
+EKIR_HEAVYFRAME:0 "Ekirian Heavy-Frame Legion"
+EKIR_PLANETARMY:0 "Ekirian Peacekeeper Squad"
+EKIR_ASSAULTARMY:0 "Ekirian Invasion Army"
+EKIR_PSIARMY:0 "Ekirian Psionic Army"
+EKIR_PRIMITIVEARMY:0 "Primitive Army"
+EKIR_INDUSTRIALARMY:0 "Industrial Army"
+EKIR_POSTATOMICARMY:0 "Post-Atomic Army"
+
+
+
+####################
+### Planet Names ###
+####################
+EKIR_PLANET_A:0 "Ares"
+EKIR_PLANET_B:0 "Arkingston"
+EKIR_PLANET_C:0 "Aurora"
+EKIR_PLANET_D:0 "Actium"
+
+
+
+#######################
+### Character Names ###
+#######################
+EKIR_NM_A:0 "Aleksander"
+EKIR_NM_B:0 ""
+EKIR_NM_C:0 ""
+EKIR_NM_D:0 ""
+EKIR_NM_E:0 ""
+EKIR_NM_F:0 ""
+EKIR_NM_G:0 ""
+EKIR_NM_H:0 ""
+EKIR_NM_I:0 ""
+EKIR_NM_J:0 ""
+EKIR_NM_K:0 ""
+EKIR_NM_L:0 "Luke"
+EKIR_NM_M:0 ""
+EKIR_NM_N:0 ""
+EKIR_NM_O:0 ""
+EKIR_NM_P:0 ""
+EKIR_NM_Q:0 ""
+EKIR_NM_R:0 ""
+EKIR_NM_S:0 ""
+EKIR_NM_T:0 "Theo"
+EKIR_NM_U:0 ""
+EKIR_NM_V:0 ""
+EKIR_NM_W:0 ""
+EKIR_NM_X:0 ""
+EKIR_NM_Y:0 ""
+EKIR_NM_Z:0 ""
+
+EKIR_NF_A:0 ""
+EKIR_NF_B:0 ""
+EKIR_NF_C:0 ""
+EKIR_NF_D:0 ""
+EKIR_NF_E:0 "Eriselle"
+EKIR_NF_F:0 "Femke"
+EKIR_NF_G:0 ""
+EKIR_NF_H:0 ""
+EKIR_NF_I:0 ""
+EKIR_NF_J:0 ""
+EKIR_NF_K:0 ""
+EKIR_NF_L:0 ""
+EKIR_NF_M:0 ""
+EKIR_NF_N:0 "Nialasia"
+EKIR_NF_O:0 ""
+EKIR_NF_P:0 ""
+EKIR_NF_Q:0 ""
+EKIR_NF_R:0 ""
+EKIR_NF_S:0 ""
+EKIR_NF_T:0 ""
+EKIR_NF_U:0 ""
+EKIR_NF_V:0 ""
+EKIR_NF_W:0 ""
+EKIR_NF_X:0 ""
+EKIR_NF_Y:0 "Yuka"
+EKIR_NF_Z:0 ""
+
+EKIR_SN_A:0 "Arkingston"
+EKIR_SN_B:0 ""
+EKIR_SN_C:0 ""
+EKIR_SN_D:0 ""
+EKIR_SN_E:0 ""
+EKIR_SN_F:0 ""
+EKIR_SN_G:0 ""
+EKIR_SN_H:0 "Hermel"
+EKIR_SN_I:0 ""
+EKIR_SN_J:0 ""
+EKIR_SN_K:0 ""
+EKIR_SN_L:0 ""
+EKIR_SN_M:0 ""
+EKIR_SN_N:0 "Nolia"
+EKIR_SN_O:0 ""
+EKIR_SN_P:0 ""
+EKIR_SN_Q:0 ""
+EKIR_SN_R:0 ""
+EKIR_SN_S:0 ""
+EKIR_SN_T:0 ""
+EKIR_SN_U:0 "Un'Aurac"
+EKIR_SN_V:0 ""
+EKIR_SN_W:0 ""
+EKIR_SN_X:0 ""
+EKIR_SN_Y:0 ""
+EKIR_SN_Z:0 ""

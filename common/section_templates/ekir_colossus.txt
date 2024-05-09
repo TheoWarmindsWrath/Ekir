@@ -1,0 +1,235 @@
+ship_section_template = {
+	key = "COLOSSUS_HEAVY"
+	ship_size = colossus
+	fits_on_slot = "ship"
+	entity = "colossus_ship_entity"
+	icon = "GFX_ship_part_core_mid"
+	modifier = {
+		ship_hull_mult = 0.25
+		ship_armor_mult = 0.25
+		ship_shield_mult = 0.25
+	}
+	ai_tags = {
+		artillery
+	}
+	component_slot = {
+		name = "PLANET_KILLER_GUN_01"
+		template = "invisible_planet_killer_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_01"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_02"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_03"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_04"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_01"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_02"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_03"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_04"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_05"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_06"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_07"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_08"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	small_utility_slots = 0
+	medium_utility_slots = 0
+	large_utility_slots = 10
+	aux_utility_slots = 5
+	resources = {
+		category = ship_sections
+	}
+}
+
+ship_section_template = {
+	key = "COLOSSUS_DEPTH_IMPERATOR"
+	ship_size = colossus
+	fits_on_slot = "ship"
+	entity = "colossus_ship_entity"
+	icon = "GFX_ship_part_core_mid"
+	modifier = {
+		ship_hull_mult = 0.5
+		ship_armor_mult = 0.5
+		ship_shield_mult = 0.5
+	}
+	ai_tags = {
+		artillery
+	}
+	component_slot = {
+		name = "PLANET_KILLER_GUN_01"
+		template = "invisible_planet_killer_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_01"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_02"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_03"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_04"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_05"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_06"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_07"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "TITANIC_08"
+		template = "invisible_titanic_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_01"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_02"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_03"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_04"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_05"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_06"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_07"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_08"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_09"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_10"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_11"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_12"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_13"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_14"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_15"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	component_slot = {
+		name = "EXTRA_LARGE_16"
+		template = "invisible_extra_large_fixed"
+		locatorname = "planet_killer_gun_01"
+	}
+	small_utility_slots = 0
+	medium_utility_slots = 0
+	large_utility_slots = 20
+	aux_utility_slots = 5
+	resources = {
+		category = ship_sections
+	}
+}

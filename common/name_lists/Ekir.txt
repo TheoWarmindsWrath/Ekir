@@ -1,0 +1,305 @@
+﻿### EKIR namelist
+### Created by Theo Warmind's Wrath 2023-08-09
+EKIR = {
+	category = "Ekigen Commonwealth"
+	randomized = no
+	alias = "Ekir"
+	ship_names = {
+		corvette = {
+			EKIR_SHIP_A
+			EKIR_SHIP_B
+			EKIR_SHIP_C
+			EKIR_SHIP_D
+			EKIR_SHIP_E
+			EKIR_SHIP_F
+			EKIR_SHIP_G
+			EKIR_SHIP_H
+			EKIR_SHIP_I
+			EKIR_SHIP_J
+			EKIR_SHIP_K
+			EKIR_SHIP_L
+			EKIR_SHIP_M
+			EKIR_SHIP_N
+			EKIR_SHIP_O
+			EKIR_SHIP_P
+			EKIR_SHIP_Q
+			EKIR_SHIP_R
+			EKIR_SHIP_S
+			EKIR_SHIP_T
+			EKIR_SHIP_U
+			EKIR_SHIP_V
+			EKIR_SHIP_W
+			EKIR_SHIP_X
+			EKIR_SHIP_Y
+			EKIR_SHIP_Z
+		}
+		destroyer = {
+			EKIR_SHIP_A
+			EKIR_SHIP_B
+			EKIR_SHIP_C
+			EKIR_SHIP_D
+			EKIR_SHIP_E
+			EKIR_SHIP_F
+			EKIR_SHIP_G
+			EKIR_SHIP_H
+			EKIR_SHIP_I
+			EKIR_SHIP_J
+			EKIR_SHIP_K
+			EKIR_SHIP_L
+			EKIR_SHIP_M
+			EKIR_SHIP_N
+			EKIR_SHIP_O
+			EKIR_SHIP_P
+			EKIR_SHIP_Q
+			EKIR_SHIP_R
+			EKIR_SHIP_S
+			EKIR_SHIP_T
+			EKIR_SHIP_U
+			EKIR_SHIP_V
+			EKIR_SHIP_W
+			EKIR_SHIP_X
+			EKIR_SHIP_Y
+			EKIR_SHIP_Z
+		}
+		cruiser = {
+			EKIR_SHIP_A
+			EKIR_SHIP_B
+			EKIR_SHIP_C
+			EKIR_SHIP_D
+			EKIR_SHIP_E
+			EKIR_SHIP_F
+			EKIR_SHIP_G
+			EKIR_SHIP_H
+			EKIR_SHIP_I
+			EKIR_SHIP_J
+			EKIR_SHIP_K
+			EKIR_SHIP_L
+			EKIR_SHIP_M
+			EKIR_SHIP_N
+			EKIR_SHIP_O
+			EKIR_SHIP_P
+			EKIR_SHIP_Q
+			EKIR_SHIP_R
+			EKIR_SHIP_S
+			EKIR_SHIP_T
+			EKIR_SHIP_U
+			EKIR_SHIP_V
+			EKIR_SHIP_W
+			EKIR_SHIP_X
+			EKIR_SHIP_Y
+			EKIR_SHIP_Z
+		}
+		battleship = {
+			EKIR_SHIP_A
+			EKIR_SHIP_B
+			EKIR_SHIP_C
+			EKIR_SHIP_D
+			EKIR_SHIP_E
+			EKIR_SHIP_F
+			EKIR_SHIP_G
+			EKIR_SHIP_H
+			EKIR_SHIP_I
+			EKIR_SHIP_J
+			EKIR_SHIP_K
+			EKIR_SHIP_L
+			EKIR_SHIP_M
+			EKIR_SHIP_N
+			EKIR_SHIP_O
+			EKIR_SHIP_P
+			EKIR_SHIP_Q
+			EKIR_SHIP_R
+			EKIR_SHIP_S
+			EKIR_SHIP_T
+			EKIR_SHIP_U
+			EKIR_SHIP_V
+			EKIR_SHIP_W
+			EKIR_SHIP_X
+			EKIR_SHIP_Y
+			EKIR_SHIP_Z
+		}
+		titan = {
+			EKIR_TITAN_A
+			EKIR_TITAN_B
+			EKIR_TITAN_C
+			EKIR_TITAN_D
+			EKIR_TITAN_E
+		}
+		colossus = {
+			EKIR_COLOSSI_A
+			EKIR_COLOSSI_B
+			EKIR_COLOSSI_C
+		}
+		juggernaut = {
+			EKIR_JUGGERNAUT_A
+			EKIR_JUGGERNAUT_B
+			EKIR_JUGGERNAUT_C
+		}
+		constructor = {
+			EKIR_CONSTRUCTOR_A
+			EKIR_CONSTRUCTOR_B
+			EKIR_CONSTRUCTOR_C
+		}
+		colonizer = {
+			EKIR_COLONIZER_A
+			EKIR_COLONIZER_B
+			EKIR_COLONIZER_C
+		}
+		sponsored_colonizer = {
+			EKIR_COLONIZER_A
+			EKIR_COLONIZER_B
+			EKIR_COLONIZER_C
+		}
+		science = {
+			EKIR_SCIENCE_A
+			EKIR_SCIENCE_B
+			EKIR_SCIENCE_C
+		}
+		transport = {
+			EKIR_TRANSPORT
+		}
+		military_station_small = {
+			EKIR_DEFENCEPLATFORM
+		}
+		ion_cannon = {
+			EKIR_IONCANNON
+		}
+	}
+	####################
+	### Space Forces ###
+	####################
+	fleet_names = {
+		sequential_name = EKIR_FLEET
+	}
+	#####################
+	### Ground Forces ###
+	#####################
+	army_names = {
+		machine_defense = {
+			sequential_name = EKIR_SENTINEL
+		}
+		machine_assault_1 = {
+			sequential_name = EKIR_HUNTERKILLER
+		}
+		machine_assault_2 = {
+			sequential_name = EKIR_BATTLEFRAME
+		}
+		machine_assault_3 = {
+			sequential_name = EKIR_HEAVYFRAME
+		}
+		defense_army = {
+			sequential_name = EKIR_PLANETARMY
+		}
+		assault_army = {
+			sequential_name = EKIR_ASSAULTARMY
+		}
+		slave_army = {
+			sequential_name = EKIR_ASSAULTARMY
+		}
+		clone_army = {
+			sequential_name = EKIR_ASSAULTARMY
+		}
+		undead_army = {
+			sequential_name = EKIR_ASSAULTARMY
+		}
+		robotic_army = {
+			sequential_name = EKIR_BATTLEFRAME
+		}
+		robotic_defense_army = {
+			sequential_name = EKIR_PLANETARMY
+		}
+		psionic_army = {
+			sequential_name = EKIR_PSIARMY
+		}
+		xenomorph_army = {
+			sequential_name = EKIR_ASSAULTARMY
+		}
+		gene_warrior_army = {
+			sequential_name = EKIR_ASSAULTARMY
+		}
+		occupation_army = {
+			sequential_name = EKIR_PLANETARMY
+		}
+		robotic_occupation_army = {
+			sequential_name = EKIR_PLANETARMY
+		}
+		primitive_army = {
+			sequential_name = EKIR_PRIMITIVEARMY
+		}
+		industrial_army = {
+			sequential_name = EKIR_INDUSTRIALARMY
+		}
+		postatomic_army = {
+			sequential_name = EKIR_POSTATOMICARMY
+		}
+	}
+	planet_names = {
+		generic = {
+			names = {
+			EKIR_PLANET
+			}
+		}
+		pc_desert = {
+			names = {
+			}
+		}
+		pc_arid = {
+			names = {
+			}
+		}
+		pc_tropical = {
+			names = {
+			}
+		}
+		pc_continental = {
+			names = {
+			}
+		}
+		pc_gaia = {
+			names = {
+			}
+		}
+		pc_ocean = {
+			names = {
+			}
+		}
+		pc_tundra = {
+			names = {
+			}
+		}
+		pc_arctic = {
+			names = {
+			}
+		}
+		pc_savannah = {
+			names = {
+			}
+		}
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+	###############
+	### Peoples ###
+	###############
+	character_names = {
+		default = {
+			first_names_male = {
+				EKIR_NM_A EKIR_NM_L EKIR_NM_T
+			}
+			first_names_female = {
+				EKIR_NF_E EKIR_NF_F EKIR_NF_N EKIR_NF_Y
+			}
+			second_names = {
+				EKIR_SN_A EKIR_SN_H EKIR_SN_N EKIR_SN_U
+			}
+
+			regnal_first_names_male = {
+			}
+			regnal_first_names = {
+			}
+			regnal_second_names = {
+			}
+		}
+	}
+}
