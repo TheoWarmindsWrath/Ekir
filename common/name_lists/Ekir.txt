@@ -235,7 +235,10 @@ EKIR = {
 	planet_names = {
 		generic = {
 			names = {
-			EKIR_PLANET
+				EKIR_PLANET_A
+				EKIR_PLANET_B
+				EKIR_PLANET_C
+				EKIR_PLANET_D
 			}
 		}
 		pc_desert = {
