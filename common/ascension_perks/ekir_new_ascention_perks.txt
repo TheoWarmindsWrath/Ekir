@@ -1,0 +1,36 @@
+ap_heavy_designs = {
+	potential = {
+		NOT = {
+			has_ascension_perk = ap_heavy_designs
+		}
+	}
+	possible = {
+		custom_tooltip = {
+			fail_text = "requires_technology_housing_2"
+			has_technology = tech_battleships
+		}
+		custom_tooltip = {
+			fail_text = "requires_ascension_perks_4"
+			num_ascension_perks > 4
+		}
+	}
+}
+
+ap_ekirian_engineering={
+	potential = {
+		NOT = {
+			has_ascension_perk = ap_heavy_designs
+		}
+	}
+	
+	possible = {
+		custom_tooltip = {
+			fail_text = "requires_technology_housing_2"
+			has_technology = tech_battleships
+		}
+		custom_tooltip = {
+			fail_text = "requires_ascension_perks_6"
+			num_ascension_perks > 6
+		}
+	}
+}
