@@ -14,7 +14,7 @@ This mod is my own lil pride and joy to go increase space domination within the 
 ### Enhanced Juggernaut
 + built-in comptability w/ NSC3
 + 4 new Sections
-### Special modules for Colossus and Juggernaut
+### Weapons & components for Colossus and Juggernaut
 ### Arcology Expansion
 + Machine-friendly
 + Science districts
