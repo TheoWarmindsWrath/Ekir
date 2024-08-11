@@ -22,10 +22,11 @@ progenitor_ships_limit = {
 titan_ships_limit = {
 	ship_types = {
 		titan
+		cosmo_crisis_titan
 	}
 
 	base = 16 # 1 * titan's size_multiplier
-	max = 69420
+	max = 667666
 	naval_cap_fraction = 0.16
 
 	show = {
@@ -40,7 +41,7 @@ colossus_ships_limit = {
 	}
 
 	base = 32 # 1 * colossus's size_multiplier
-	max = 69420
+	max = 667666
 	naval_cap_fraction = 0.032
 
 	show = {
@@ -55,7 +56,7 @@ juggernaut_ships_limit = {
 	}
 
 	base = 32 # 1 * juggernaut's size_multiplier
-	max = 69420
+	max = 667666
 	naval_cap_fraction = 0.064
 	show = {
 		is_scope_valid = yes

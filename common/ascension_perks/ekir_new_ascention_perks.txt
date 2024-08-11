@@ -6,8 +6,14 @@ ap_heavy_designs = {
 	}
 	possible = {
 		custom_tooltip = {
-			fail_text = "requires_technology_housing_2"
-			has_technology = tech_battleships
+			OR = {
+				has_technology = tech_battleships
+				fail_text = "requires_technology_battleships"
+				has_technology = tech_juggernauts
+				fail_text = "requires_technology_juggernaut"
+				has_technology = tech_colossus
+				fail_text = "requires_technology_colossus"
+			}
 		}
 		custom_tooltip = {
 			fail_text = "requires_ascension_perks_4"
@@ -25,8 +31,14 @@ ap_ekirian_engineering={
 	
 	possible = {
 		custom_tooltip = {
-			fail_text = "requires_technology_housing_2"
-			has_technology = tech_battleships
+			OR = {
+				has_technology = tech_battleships
+				fail_text = "requires_technology_battleships"
+				has_technology = tech_juggernauts
+				fail_text = "requires_technology_juggernaut"
+				has_technology = tech_colossus
+				fail_text = "requires_technology_colossus"
+			}
 		}
 		custom_tooltip = {
 			fail_text = "requires_ascension_perks_6"

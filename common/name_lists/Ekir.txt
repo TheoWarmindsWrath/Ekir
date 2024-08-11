@@ -123,6 +123,8 @@ EKIR = {
 			EKIR_TITAN_C
 			EKIR_TITAN_D
 			EKIR_TITAN_E
+			EKIR_TITAN_F
+			EKIR_TITAN_Z
 		}
 		colossus = {
 			EKIR_COLOSSI_A
