@@ -43,7 +43,7 @@ ship_section_template = {
 	}
 }
 ship_section_template = {
-	key = "TITAN_BOW_HEAVY_BURST"
+	key = "TITAN_BOW_ADVANCED_BURST"
 	ship_size = titan
 	fits_on_slot = bow
 	should_draw_components = yes
@@ -143,7 +143,7 @@ ship_section_template = {
 	}
 }
 ship_section_template = {
-	key = "TITAN_BOW_HEAVY_CARRIER"
+	key = "TITAN_BOW_ADVANCED_CARRIER"
 	ship_size = titan
 	fits_on_slot = bow
 	should_draw_components = yes
@@ -290,7 +290,7 @@ ship_section_template = {
 
 # STERN
 ship_section_template = {
-	key = "TITAN_STERN_HEAVY"
+	key = "TITAN_STERN_ADVANCED"
 	ship_size = titan
 	fits_on_slot = stern
 	should_draw_components = yes

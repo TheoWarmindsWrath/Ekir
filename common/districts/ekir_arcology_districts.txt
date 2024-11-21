@@ -1,8 +1,9 @@
-district_arcology_science = 	{
-
+##########################################################################################
+# The place I actively despise because of all the code that need to be copied and pasted #
+##########################################################################################
+district_arcology_science = {
 	base_buildtime = 600
 	is_capped_by_modifier = no
-
 	show_on_uncolonized = {
 		uses_district_set = city_world
 		from = {
@@ -16,7 +17,6 @@ district_arcology_science = 	{
 			}
 		}
 	}
-
 	potential = {
 		uses_district_set = city_world
 		owner = {
@@ -31,7 +31,6 @@ district_arcology_science = 	{
 			}
 		}
 	}
-
 	resources = {
 		category = planet_districts
 		cost = {
@@ -43,68 +42,71 @@ district_arcology_science = 	{
 			exotic_gases = 1
 		}
 	}
-
 	planet_modifier = {
 		planet_housing_add = 10
 	}
-
 	### Normal
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { is_regular_empire = yes }
+			owner = {
+				is_regular_empire = yes
+			}
 		}
 		job_researcher_add = 6
 	}
-
 	### Hivemind
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { is_hive_empire = yes }
+			owner = {
+				is_hive_empire = yes
+			}
 		}
 		job_brain_drone_add = 6
 	}
-
 	### Machine
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
-			owner = { is_machine_empire = yes }
+			owner = {
+				is_machine_empire = yes
+			}
 		}
 		job_calculator_add = 6
 	}
-
 	triggered_desc = {
 		trigger = {
 			exists = owner
-			owner = { is_regular_empire = yes }
+			owner = {
+				is_regular_empire = yes
+			}
 		}
 		text = job_researcher_effect_desc
 	}
-
 	triggered_desc = {
 		trigger = {
 			exists = owner
-			owner = { is_hive_empire = yes }
+			owner = {
+				is_hive_empire = yes
+			}
 		}
 		text = job_brain_drone_effect_desc
 	}
-
 	triggered_desc = {
 		trigger = {
 			exists = owner
-			owner = { is_machine_empire = yes }
+			owner = {
+				is_machine_empire = yes
+			}
 		}
 		text = job_calculator_effect_desc
 	}
 }
 
-district_arcology_administrative = 	{
-
+district_arcology_administrative = {
 	base_buildtime = 600
 	is_capped_by_modifier = no
-
 	show_on_uncolonized = {
 		uses_district_set = city_world
 		from = {
@@ -122,7 +124,6 @@ district_arcology_administrative = 	{
 			}
 		}
 	}
-
 	potential = {
 		uses_district_set = city_world
 		owner = {
@@ -139,29 +140,25 @@ district_arcology_administrative = 	{
 			}
 		}
 	}
-
 	conversion_ratio = 1
 	convert_to = {
 		district_arcology_religious
 		district_hive
 	}
-
 	resources = {
 		category = planet_districts
 		cost = {
 			minerals = 1000
-			rare_crystals  = 50
+			rare_crystals = 50
 		}
 		upkeep = {
 			energy = 5
 			rare_crystals = 1
 		}
 	}
-
 	planet_modifier = {
 		planet_housing_add = 10
 	}
-
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
@@ -175,7 +172,6 @@ district_arcology_administrative = 	{
 			job_bureaucrat_add = 6
 		}
 	}
-
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
@@ -189,7 +185,6 @@ district_arcology_administrative = 	{
 			job_manager_add = 6
 		}
 	}
-
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
@@ -202,7 +197,6 @@ district_arcology_administrative = 	{
 			job_steward_add = 6
 		}
 	}
-
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
@@ -214,7 +208,6 @@ district_arcology_administrative = 	{
 			job_coordinator_add = 6
 		}
 	}
-
 	triggered_desc = {
 		trigger = {
 			exists = owner
@@ -226,7 +219,6 @@ district_arcology_administrative = 	{
 		}
 		text = job_bureaucrat_effect_desc
 	}
-
 	triggered_desc = {
 		trigger = {
 			exists = owner
@@ -237,7 +229,6 @@ district_arcology_administrative = 	{
 		}
 		text = job_manager_effect_desc
 	}
-
 	triggered_desc = {
 		trigger = {
 			exists = owner
@@ -248,7 +239,6 @@ district_arcology_administrative = 	{
 		}
 		text = job_steward_effect_desc
 	}
-
 	triggered_desc = {
 		trigger = {
 			exists = owner

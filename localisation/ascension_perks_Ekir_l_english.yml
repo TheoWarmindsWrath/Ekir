@@ -1,0 +1,18 @@
+﻿l_english:
+###################
+# Ascention Perks #
+###################
+ap_advanced_designs_vanilla:0 "Advanced Ship Design V"
+ap_advanced_designs_apo:0 "Advanced Ship Design A"
+ap_advanced_designs_fed:0 "Advanced Ship Design F"
+ap_advanced_designs_apo_fed:0 "Advanced Ship Design AF"
+ap_advanced_designs_apo_fed_desc:1 "After much consideration, research will begin into improving our current navy to bolster them and ever more mighty"
+
+################
+# REQUIREMENTS #
+################
+requires_ascension_perks_6:0 "$TRIGGER_FAIL$Requires six other Ascension Perks to be selected first."
+requires_ascension_perks_8:0 "$TRIGGER_FAIL$Requires eight other Ascension Perks to be selected first."
+requires_technology_titans:0 "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_titans$§! technology."
+requires_technology_juggernaut:0 "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_juggernaut$§! technology."
+requires_battleships_titans_juggernaut:0 "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_titans$ £engineering£ $tech_juggernaut$§! technologies."

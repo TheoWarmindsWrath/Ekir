@@ -1,5 +1,5 @@
 ship_section_template = {
-	key = "COLOSSUS_HEAVY"
+	key = "COLOSSUS_ADVANCED"
 	ship_size = colossus
 	fits_on_slot = "ship"
 	entity = "colossus_ship_entity"

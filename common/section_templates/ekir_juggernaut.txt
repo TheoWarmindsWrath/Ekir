@@ -1,5 +1,5 @@
 ship_section_template = {
-	key = "JUGGERNAUT_HEAVY_BALANCED"
+	key = "JUGGERNAUT_ADVANCED_BALANCED"
 	ship_size = juggernaut
 	fits_on_slot = "core"
 	fits_on_slot = "core2"
@@ -79,7 +79,7 @@ ship_section_template = {
 }
 
 ship_section_template = {
-	key = "JUGGERNAUT_HEAVY_CARRIER"
+	key = "JUGGERNAUT_ADVANCED_CARRIER"
 	ship_size = juggernaut
 	fits_on_slot = "core"
 	fits_on_slot = "core2"
@@ -178,7 +178,7 @@ ship_section_template = {
 }
 
 ship_section_template = {
-	key = "JUGGERNAUT_HEAVY_ARTILLERY"
+	key = "JUGGERNAUT_ADVANCED_ARTILLERY"
 	ship_size = juggernaut
 	fits_on_slot = "core"
 	fits_on_slot = "core2"

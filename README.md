@@ -10,14 +10,14 @@ It is a dev branch where all my project are merged together, currently condensin
 ## Features
 ### Ekir Namelist
 ### Ascention Perks (Work In Progress!)
-+ Heavy Engineering, need more dakkas!
++ Advanced Engineering, need more dakkas!
 + Ekirian Engineering, laugh in violence!
 ### New scalable capital ship limits
 + Titans, twice as many, twice the devastation.
 + Colossi, crack planet! Crack fleets!
 + Juggernauts, even more aggressive
 ### Diversified Titans
-+ Several new section from burst XL and T to Carrier to heavy!
++ Several new section from burst XL and T to Carrier to advanced!
 ### Weaponised Colossus
 + 2 new Sections
 ### Enhanced Juggernaut
