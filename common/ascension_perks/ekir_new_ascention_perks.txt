@@ -5,41 +5,31 @@ ap_advanced_designs = {
 		}
 	}
 	possible = {
-		OR = {
-			AND = {
+		custom_tooltip = {
+			has_technology = tech_battleships
+			fail_text = "requires_technology_battleships"
+		}
+		if = {
+			limit = {
 				host_has_dlc = "Apocalypse"
-				host_has_dlc = "Federations"
-				has_technology = tech_battleships
+			}
+			custom_tooltip = {
 				has_technology = tech_titans
-				has_technology = tech_juggernaut
+				fail_text = "requires_technology_titans"
 			}
-			AND = {
-				host_has_dlc = "Apocalypse"
-				NOT = {
-					host_has_dlc = "Federations"
-				}
-				has_technology = tech_battleships
-				has_technology = tech_titans
-			}
-			AND = {
+		}
+		if = {
+			limit = {
 				host_has_dlc = "Federations"
-				NOT = {
-					host_has_dlc = "Apocalypse"
-				}
-				has_technology = tech_battleships
-				has_technology = tech_juggernaut
 			}
-			AND = {
-				has_technology = tech_battleships
-				NAND = {
-					host_has_dlc = "Apocalypse"
-					host_has_dlc = "Federations"
-				}
+			custom_tooltip = {
+				has_technology = tech_juggernaut
+				fail_text = "requires_technology_juggernaut"
 			}
 		}
 		custom_tooltip = {
-			fail_text = "requires_ascension_perks_6"
-			num_ascension_perks > 5
+			fail_text = "requires_ascension_perks_4"
+			num_ascension_perks > 4
 		}
 	}
 }
@@ -50,46 +40,32 @@ ap_ekirian_engineering = {
 			has_ascension_perk = ap_ekirian_engineering
 		}
 	}
+	
 	possible = {
-		OR = {
-			AND = {
-				custom_tooltip = {
-					fail_text = "requires_battleships_titans_juggernaut"
-					host_has_dlc = "Apocalypse"
-					host_has_dlc = "Federations"
-					has_technology = tech_battleships
-					has_technology = tech_titans
-					has_technology = tech_juggernaut
-				}
-			}
-			AND = {
+		custom_tooltip = {
+			has_technology = tech_battleships
+			fail_text = "requires_technology_battleships"
+		}
+		if = {
+			limit = {
 				host_has_dlc = "Apocalypse"
-				NOT = {
-					host_has_dlc = "Federations"
-				}
-				has_technology = tech_battleships
+			}
+			custom_tooltip = {
 				has_technology = tech_titans
+				fail_text = "requires_technology_titans"
 			}
-			AND = {
+		}
+		if = {
+			limit = {
 				host_has_dlc = "Federations"
-				NOT = {
-					host_has_dlc = "Apocalypse"
-				}
-				has_technology = tech_battleships
-				has_technology = tech_juggernaut
 			}
-			AND = {
-				has_technology = tech_battleships
-				NOT = {
-					host_has_dlc = "Apocalypse"
-				}
-				NOT = {
-					host_has_dlc = "Federations"
-				}
+			custom_tooltip = {
+				has_technology = tech_juggernaut
+				fail_text = "requires_technology_juggernaut"
 			}
 		}
 		custom_tooltip = {
-			fail_text = "requires_ascension_perks_8"
+			fail_text = "requires_ascension_perks_7"
 			num_ascension_perks > 7
 		}
 	}

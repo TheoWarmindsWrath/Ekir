@@ -1,0 +1,3 @@
+@tier6cost1 = 64000
+@tier6cost2 = 80000
+@tier6cost3 = 96000
