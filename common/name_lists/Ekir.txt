@@ -290,13 +290,13 @@ EKIR = {
 	character_names = {
 		default = {
 			first_names_male = {
-				EKIR_NM_A EKIR_NM_L EKIR_NM_T
+				EKIR_NM_A EKIR_NM_D EKIR_NM_L EKIR_NM_T
 			}
 			first_names_female = {
 				EKIR_NF_E EKIR_NF_F EKIR_NF_N EKIR_NF_Y
 			}
 			second_names = {
-				EKIR_SN_A EKIR_SN_H EKIR_SN_N EKIR_SN_U
+				EKIR_SN_A EKIR_SN_H EKIR_SN_N EKIR_SN_T EKIR_SN_U
 			}
 
 			regnal_first_names_male = {
