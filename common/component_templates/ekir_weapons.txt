@@ -1,4 +1,3 @@
-
 weapon_component_template = {
 	key = "SPECIAL_PERDITION_BEAM_TITAN"
 	size = titanic
@@ -40,8 +39,10 @@ weapon_component_template = {
 	}
 
 	target_weights = {
-		titan = 3
-		battleship = 2
+		juggernaut = 5
+		titan = 4
+		battleship = 3
+		cruiser = 2
 	}
 
 	ai_weight = {
@@ -94,8 +95,10 @@ weapon_component_template = {
 	}
 
 	target_weights = {
-		titan = 3
-		battleship = 2
+		juggernaut = 5
+		titan = 4
+		battleship = 3
+		cruiser = 2
 	}
 
 	ai_weight = {

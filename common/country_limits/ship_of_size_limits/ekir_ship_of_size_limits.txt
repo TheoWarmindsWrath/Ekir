@@ -1,5 +1,4 @@
-# Character on file name is to enforce above other mods the limits.
-# And if you can't tell by the settings I did, then let me tell you: BLOOD FOR THE BLOOD GOD!!
+# Let me tell you: BLOOD FOR THE BLOOD GOD!
 
 progenitor_ships_limit = {
 	ship_types = {
@@ -26,7 +25,7 @@ titan_ships_limit = {
 	}
 
 	base = 16 # 1 * titan's size_multiplier
-	max = 667666
+	max = 13082024
 	naval_cap_fraction = 0.16
 
 	show = {
@@ -41,7 +40,7 @@ colossus_ships_limit = {
 	}
 
 	base = 32 # 1 * colossus's size_multiplier
-	max = 667666
+	max = 13082024
 	naval_cap_fraction = 0.032
 
 	show = {
@@ -56,7 +55,7 @@ juggernaut_ships_limit = {
 	}
 
 	base = 32 # 1 * juggernaut's size_multiplier
-	max = 667666
+	max = 13082024
 	naval_cap_fraction = 0.064
 	show = {
 		is_scope_valid = yes

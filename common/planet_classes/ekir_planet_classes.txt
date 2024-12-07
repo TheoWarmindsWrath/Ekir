@@ -16,7 +16,7 @@ pc_city = {
 		pop_growth_speed = 0.15
 		planet_pop_assembly_mult = 0.15
 		planet_pop_assembly_organic_mult = 0.15
-		planet_max_buildings_add = 36
+		planet_max_buildings_add = 108
 		planet_resettlement_unemployed_destination_mult = 0.5
 	}
 
@@ -72,7 +72,7 @@ pc_ringworld_habitable = {
 	uses_alternative_skies_for_moons = yes
 
 	modifier = {
-		planet_max_buildings_add = 36
+		planet_max_buildings_add = 108
 		planet_resettlement_unemployed_destination_mult = 0.5
 	}
 
@@ -96,7 +96,7 @@ pc_hive = {
 
 	modifier = {
 		planet_jobs_produces_mult = 0.10
-		planet_max_buildings_add = 36
+		planet_max_buildings_add = 108
 		job_spawning_drone_add = 1
 		planet_resettlement_unemployed_destination_mult = 0.5
 	}
@@ -139,7 +139,7 @@ pc_machine = {
 		planet_jobs_produces_mult = 0.10
 		pop_housing_usage_mult = -0.10
 		pop_environment_tolerance = 0.0
-		planet_max_buildings_add = 36
+		planet_max_buildings_add = 108
 		job_replicator_add = 1
 		planet_resettlement_unemployed_destination_mult = 0.5
 	}

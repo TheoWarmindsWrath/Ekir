@@ -3,7 +3,7 @@
 
 # BOW
 ship_section_template = {
-	key = "TITAN_BOW_TITAN_BURST"
+	key = "TITAN_BOW_TITANIC_BURST"
 	ship_size = titan
 	fits_on_slot = bow
 	should_draw_components = yes
@@ -33,7 +33,7 @@ ship_section_template = {
 		locatorname = "xl_gun_01"
 	}
 
-	large_utility_slots = 6
+	large_utility_slots = 12
 
 	resources = {
 		category = ship_sections
@@ -83,7 +83,7 @@ ship_section_template = {
 		locatorname = "xl_gun_01"
 	}
 
-	large_utility_slots = 6
+	large_utility_slots = 12
 
 	resources = {
 		category = ship_sections
@@ -203,7 +203,7 @@ ship_section_template = {
 		locatorname = "strike_craft_locator_02"
 	}
 
-	large_utility_slots = 6
+	large_utility_slots = 12
 
 	resources = {
 		category = ship_sections

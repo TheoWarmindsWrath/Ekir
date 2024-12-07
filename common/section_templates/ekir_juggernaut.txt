@@ -68,7 +68,7 @@ ship_section_template = {
 	}
 	small_utility_slots = 0
 	medium_utility_slots = 0
-	large_utility_slots = 21
+	large_utility_slots = 26
 	aux_utility_slots = 4
 	resources = {
 		category = ship_sections
@@ -167,7 +167,7 @@ ship_section_template = {
 	}
 	small_utility_slots = 0
 	medium_utility_slots = 0
-	large_utility_slots = 21
+	large_utility_slots = 26
 	aux_utility_slots = 4
 	resources = {
 		category = ship_sections
@@ -256,7 +256,7 @@ ship_section_template = {
 	}
 	small_utility_slots = 0
 	medium_utility_slots = 0
-	large_utility_slots = 21
+	large_utility_slots = 26
 	aux_utility_slots = 4
 	resources = {
 		category = ship_sections
@@ -279,7 +279,6 @@ ship_section_template = {
 		ship_hull_mult = 0.5
 		ship_armor_mult = 0.5
 		ship_shield_mult = 0.5
-		 = 10
 	}
 	ai_tags = {
 		carrier
@@ -407,7 +406,7 @@ ship_section_template = {
 	}
 	small_utility_slots = 0
 	medium_utility_slots = 0
-	large_utility_slots = 21
+	large_utility_slots = 26
 	aux_utility_slots = 4
 	resources = {
 		category = ship_sections

@@ -32,6 +32,9 @@ ap_advanced_designs = {
 			num_ascension_perks > 4
 		}
 	}
+	modifier = {
+		country_naval_cap_mult = 10
+	}
 }
 
 ap_ekirian_engineering = {

@@ -3,9 +3,9 @@
 # Ascention Perks #
 ###################
 ap_advanced_designs:0 "Advanced Ship Designs"
-ap_advanced_designs_desc:1 "After much consideration, research will begin into improving our current navy to bolster them and ever more mighty"
+ap_advanced_designs_desc:1 "After much efforts and consideration, research will begin into rethinking our current navy to update it"
 ap_ekirian_engineering:0 "Ekirian Engineering"
-ap_ekirian_engineering_desc:1 "We have uncovered an Ekirian data cache and is primed for unlock, we shall tap into the power of the Ekirian Commonwealth to assert our might!"
+ap_ekirian_engineering_desc:1 "We have uncovered an Ekirian data cache and primed it for unlock, we shall tap into the mystical power of the Ekirians to assert our might!"
 
 ################
 # REQUIREMENTS #

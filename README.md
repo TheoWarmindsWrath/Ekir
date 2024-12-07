@@ -1,4 +1,4 @@
-# Greetings to Ekir!
+# Greetings to the Ekirian Commonwealth!
 This mod is my own personal project within the video game Stellaris.
 It is a dev branch where all my project are merged together, currently condensing:
 ## Ekir Specie Pack (spinoff Protogens)
@@ -24,7 +24,8 @@ It is a dev branch where all my project are merged together, currently condensin
 + built-in comptability w/ NSC3
 + 4 new Sections
 ### Weapons & components for Colossus and Juggernaut
-+ T weapons and computers
++ T weapons for both
++ Computers for Colossi
 ### Arcology Expansion
 + Machine-friendly
 + Science districts

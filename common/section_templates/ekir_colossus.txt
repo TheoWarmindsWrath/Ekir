@@ -8,6 +8,7 @@ ship_section_template = {
 		ship_hull_mult = 0.25
 		ship_armor_mult = 0.25
 		ship_shield_mult = 0.25
+		power = 10000
 	}
 	ai_tags = {
 		artillery
@@ -96,6 +97,7 @@ ship_section_template = {
 		ship_hull_mult = 0.5
 		ship_armor_mult = 0.5
 		ship_shield_mult = 0.5
+		power = 10000
 	}
 	ai_tags = {
 		artillery

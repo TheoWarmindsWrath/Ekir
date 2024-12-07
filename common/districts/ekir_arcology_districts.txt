@@ -1,6 +1,6 @@
-##########################################################################################
-# The place I actively despise because of all the code that need to be copied and pasted #
-##########################################################################################
+#################################################
+# Me when the arcology becomes even more potent #
+#################################################
 district_arcology_science = {
 	base_buildtime = 600
 	is_capped_by_modifier = no

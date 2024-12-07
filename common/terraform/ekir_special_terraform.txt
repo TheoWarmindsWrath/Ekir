@@ -1,3 +1,4 @@
+# Terraform go brrr
 @gaiaCost = 7500
 @gaiaTime = 3600
 

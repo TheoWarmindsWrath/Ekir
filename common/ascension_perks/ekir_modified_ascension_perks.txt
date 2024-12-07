@@ -1,17 +1,12 @@
 ap_arcology_project = {
 	potential = {
 		host_has_dlc = "Megacorp"
-		OR = {
-			is_regular_empire = yes
-			is_gestalt = yes
-		}
-		NOT = {
-			has_valid_civic = civic_agrarian_idyll
-		}
+		NOT = { has_valid_civic = civic_agrarian_idyll }
 		NOT = {
 			has_ascension_perk = ap_arcology_project
 		}
 	}
+
 	possible = {
 		custom_tooltip = {
 			fail_text = "requires_technology_housing_2"
@@ -22,10 +17,12 @@ ap_arcology_project = {
 			num_ascension_perks > 1
 		}
 	}
+
 	on_enabled = {
 		custom_tooltip = "allow_arcology_project"
 		custom_tooltip = "decision_arcology_project_effects"
 	}
+
 	ai_weight = {
 		factor = 10
 		modifier = {

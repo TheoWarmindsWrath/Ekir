@@ -59,7 +59,8 @@ utility_component_template = {
 		}
 	}
 	
-	class_restriction = { shipclass_military_special shipclass_starbase }
+	class_restriction = { shipclass_military_special }
+	size_restriction = { colossus }
 	component_set = "combat_computers"
 	ship_behavior = "artillery"
 	prerequisites = { "tech_combat_computers_1" }
@@ -90,7 +91,8 @@ utility_component_template = {
 		}
 	}
 	
-	class_restriction = { shipclass_military_special shipclass_starbase }
+	class_restriction = { shipclass_military_special }
+	size_restriction = { colossus }
 	component_set = "combat_computers"
 	ship_behavior = "artillery"
 	prerequisites = { "tech_combat_computers_2" }
@@ -121,7 +123,8 @@ utility_component_template = {
 		}
 	}
 	
-	class_restriction = { shipclass_military_special shipclass_starbase }
+	class_restriction = { shipclass_military_special }
+	size_restriction = { colossus }
 	component_set = "combat_computers"
 	ship_behavior = "artillery"
 	prerequisites = { "tech_combat_computers_3" }
@@ -163,7 +166,8 @@ utility_component_template = {
 		}
 	}
 	
-	class_restriction = { shipclass_military_special shipclass_starbase }
+	class_restriction = { shipclass_military_special }
+	size_restriction = { colossus }
 	component_set = "combat_computers"
 	ship_behavior = "artillery"
 	prerequisites = { "tech_combat_computers_autonomous" }
@@ -193,7 +197,8 @@ utility_component_template = {
 		}
 	}
 	
-	class_restriction = { shipclass_military_special shipclass_starbase }
+	class_restriction = { shipclass_military_special }
+	size_restriction = { colossus }
 	component_set = "combat_computers"
 	ship_behavior = "artillery"
 	prerequisites = { "tech_precognition_interface" }
