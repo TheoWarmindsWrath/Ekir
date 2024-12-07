@@ -1,3 +1,3 @@
 name="Ekir"
-version="3.12.*"
-supported_version="3.12.*"
+version="3.14.*"
+supported_version="3.14.*"

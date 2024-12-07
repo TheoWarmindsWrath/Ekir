@@ -1,13 +1,13 @@
-tech_advanced_corvette = {
-	cost = @tier6cost1
-	area = engineering
-	tier = 5
-	category = {
-		voidcraft
-	}
-	prerequisites = {
-		OR = {
-			has_ascension_perk = ap_advanced_designs
-		}
-	}
-}
+# tech_advanced_corvette = {
+# 	cost = @tier6cost1
+# 	area = engineering
+# 	tier = 5
+# 	category = {
+# 		voidcraft
+# 	}
+# 	prerequisites = {
+# 		OR = {
+# 			has_ascension_perk = ap_advanced_designs
+# 		}
+# 	}
+# }
