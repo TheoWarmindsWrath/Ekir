@@ -176,62 +176,86 @@ EKIR = {
 	### Ground Forces ###
 	#####################
 	army_names = {
-		machine_defense = {
-			sequential_name = EKIR_SENTINEL
-		}
-		machine_assault_1 = {
-			sequential_name = EKIR_HUNTERKILLER
-		}
-		machine_assault_2 = {
-			sequential_name = EKIR_BATTLEFRAME
-		}
-		machine_assault_3 = {
-			sequential_name = EKIR_HEAVYFRAME
+		generic = {
+			sequential_name = EKIR_ARMY_generic
 		}
 		defense_army = {
-			sequential_name = EKIR_PLANETARMY
+			sequential_name = EKIR_ARMY_defense
+		}
+		undead_defense_army = {
+			sequential_name = EKIR_ARMY_defense_undead
+		}
+		machine_defense = {
+			sequential_name = EKIR_ARMY_defense_machine
 		}
 		assault_army = {
-			sequential_name = EKIR_ASSAULTARMY
+			sequential_name = EKIR_ARMY_assault
 		}
 		slave_army = {
-			sequential_name = EKIR_ASSAULTARMY
-		}
-		clone_army = {
-			sequential_name = EKIR_ASSAULTARMY
+			sequential_name = EKIR_ARMY_slave
 		}
 		undead_army = {
-			sequential_name = EKIR_ASSAULTARMY
+			sequential_name = EKIR_ARMY_undead
+		}
+		clone_army = {
+			sequential_name = EKIR_ARMY_clone
 		}
 		robotic_army = {
-			sequential_name = EKIR_BATTLEFRAME
+			sequential_name = EKIR_ARMY_robotic
 		}
 		robotic_defense_army = {
-			sequential_name = EKIR_PLANETARMY
+			sequential_name = EKIR_ARMY_defense_robotic
 		}
 		psionic_army = {
-			sequential_name = EKIR_PSIARMY
+			sequential_name = EKIR_ARMY_psionic
 		}
 		xenomorph_army = {
-			sequential_name = EKIR_ASSAULTARMY
+			sequential_name = EKIR_ARMY_xenomorph
 		}
 		gene_warrior_army = {
-			sequential_name = EKIR_ASSAULTARMY
+			sequential_name = EKIR_ARMY_genewarrior
 		}
 		occupation_army = {
-			sequential_name = EKIR_PLANETARMY
+			sequential_name = EKIR_ARMY_occupation
+		}
+		individual_machine_occupation_army = {
+			sequential_name = EKIR_ARMY_occupation_machine
 		}
 		robotic_occupation_army = {
-			sequential_name = EKIR_PLANETARMY
+			sequential_name = EKIR_ARMY_occupation_robotic
 		}
 		primitive_army = {
-			sequential_name = EKIR_PRIMITIVEARMY
+			sequential_name = EKIR_ARMY_primitive
 		}
 		industrial_army = {
-			sequential_name = EKIR_INDUSTRIALARMY
+			sequential_name = EKIR_ARMY_industrial
 		}
 		postatomic_army = {
-			sequential_name = EKIR_POSTATOMICARMY
+			sequential_name = EKIR_ARMY_postatomic
+		}
+		offspring_defense = {
+			sequential_name = EKIR_ARMY_defense_offspring
+		}
+		fanatic_guardian = {
+			sequential_name = EKIR_ARMY_fanatic
+		}
+		machine_fanatic_guardian = {
+			sequential_name = EKIR_ARMY_fanatic_machine
+		}
+		individual_machine_defense = {
+			sequential_name = EKIR_ARMY_defense
+		}
+		machine_assault_1 = {
+			sequential_name = EKIR_ARMY_assault_machine1
+		}
+		machine_assault_2 = {
+			sequential_name = EKIR_ARMY_assault_machine2
+		}
+		machine_assault_3 = {
+			sequential_name = EKIR_ARMY_assault_machine3
+		}
+		warpling_army = {
+			sequential_name = EKIR_ARMY_warpling
 		}
 	}
 	planet_names = {

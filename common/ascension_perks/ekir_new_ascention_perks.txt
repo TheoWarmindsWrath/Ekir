@@ -33,7 +33,7 @@ ap_advanced_designs = {
 		}
 	}
 	modifier = {
-		country_naval_cap_mult = 10
+		
 	}
 }
 
